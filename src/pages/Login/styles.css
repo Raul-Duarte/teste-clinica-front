@@ -1,0 +1,15 @@
+.login{
+    margin-top: 100px;
+    justify-content: center;
+    /* background-color: #eee; */
+    
+    
+}
+
+.form{
+    background-color: #eee;
+    padding: 30px;
+    max-width: 300px;
+    border: #eee;
+    border-width: 1px;
+}
